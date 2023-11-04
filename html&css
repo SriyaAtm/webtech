@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initialscale=1.0">
+   <title>Sriya - Curriculum Vitae</title>
+   <link rel="Stylesheet" href="cv.css">
+</head>
+<body>
+   <div class="cv-container">
+   <h1> SriyaAtmakuru</h1>
+   <div class = call>
+   <p>Email: sriyatm@gmail.com | Phone: 999-01234-656 |
+ Website: www.carnaticclassical.com
+   </p>
+ </div>
+
+    <hr>
+    <h2>Summary</h2>
+     <p>
+ I am an avid larner as well as knowledge enthusiast. I am
+pursuing my Bachelor's at SNU Chennai. I am a Literature
+enthusiast as well and write poetry.
+    </p>
+    <h2>Cornerstone School</h2>
+    <p><strong>Shiv Nadar University</strong>, Chennai, India</
+p>
+    <p>Bachelor of Science in Computer Science - Third Year</p>
+    <ul>
+    <li>School Topper </li>
+    <li>Student Body President</li>
+    <li>Classical Dance Club Rep</li>
+   </ul>
+<!--
+ <h2>Skills</h2>
+ <ul>
+   <li>Carnatic Classical Music</li>
+   <li>Classical Dance</li>
+   <li>Communication</li>
+   <li>Astrophysics and quantum computing</li>
+ <!-- Add more skills here
+</ul>
+-->
+ <h2>Projects</h2>
+   <p><strong> IoT Based Fetus Monitoring</strong></p>
+   <p>An abstract to monitor the fetus and mothers health
+during pregnancy</p>
+   <h2>Languages</h2>
+   <ul>
+   <li>English - Proficient</li>
+   <li>Telugu - Intermediate</li>
+ <!-- Add more languages here -->
+</ul> </div>
+<h2>Skills</h2>
+<table>
+ <th>
+ skills
+ </th>
+    <th>Proficiency
+ </th>
+ <tr>
+     <td>Music</td>
+     <td>Advanced</td>
+ </tr>
+ <tr>
+     <td>Dance</td>
+     <td>Intermediate</td>
+ </tr>
+    <tr>
+     <td>English</td>
+     <td>Intermediate</td>
+   </tr>
+    <tr>
+    <td>Physics</td>
+    <td>Beginner</td>
+    </tr>
+    </table>
+</body>
+</html>
+
+*CSS*
+
+body {
+ font-family: Arial, sans-serif;
+ }
+h1 {
+font-size:large; font-stretch: expanded; font-family:Arial,
+Helvetica, sans-serif; text-align: center;
+}
+title, p1 {
+ text-align: center;
+}
+h2 {
+font-size: medium; font-family: Arial, Helvetica, sans-serif;
+font-feature-settings:"abvs" ; color: cornflowerblue;
+}
+.call
+{
+ text-align: center;
+}
+table {
+ width: 100%;
+ border: 10 px solid black;
+ }
+ th, td {
+ border: 1px solid #004302;
+ padding: 8px;
+ text-align: left;
+ }
+ th {
+ background-color: #05490a;
+ }
+
